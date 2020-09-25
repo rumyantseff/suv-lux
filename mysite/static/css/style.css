@@ -1,0 +1,7 @@
+body{
+    background: linear-gradient(90deg, #fff 0%, #7e7f80 100%);
+}
+
+.errorlist{
+    color: red;
+}
